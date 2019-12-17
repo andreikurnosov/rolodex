@@ -1,0 +1,15 @@
+.search {
+	-webkit-appearance: none;
+	border: none;
+	outline: none;
+	padding: 5px;
+	border-radius: 5px;
+	width: 30rem;
+	background-color: lightgray;
+	line-height: 30px;
+	margin-bottom: 30px;
+}
+
+.search:focus {
+	background-color: #fff;
+}
